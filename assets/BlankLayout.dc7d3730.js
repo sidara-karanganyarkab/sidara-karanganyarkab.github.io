@@ -1,0 +1,1 @@
+import{a9 as e,o as a,$ as t,w as o,b as r,ac as s,aj as c}from"./index.a6a3998a.js";import{V as n}from"./VApp.3d10dd82.js";const l=e({setup(p){return(u,f)=>(a(),t(n,null,{default:o(()=>[r(s(c))]),_:1}))}});export{l as default};
